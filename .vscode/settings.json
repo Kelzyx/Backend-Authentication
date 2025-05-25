@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "spellright.language": [
+        "pt"
+    ],
+    "spellright.documentTypes": [
+        "plaintext",
+        "javascript",
+        "html",
+        "typescript"
+    ]
+}
